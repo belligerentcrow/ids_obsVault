@@ -1,0 +1,1 @@
+Dopo che il sistema viene consegnato possiamo tornarci per aggiungere features o arrivare ad una versione successiva

@@ -1,0 +1,2 @@
+Arrivare alla struttura del sistema software e individuare le componenti grandi e piccole che bisogna usare e designare le relazioni tra esse.  
+Stabilisce anche attraverso quale **struttura software** si realizzeranno le specifiche 

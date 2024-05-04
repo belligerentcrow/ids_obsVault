@@ -1,0 +1,1 @@
+Verifica e Validazione. Fase di testing anche in situazioni estreme, stress testing, valuta dei risultati. Test di Integrazione e Test di Sistema. 
