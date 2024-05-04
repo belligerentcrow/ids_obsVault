@@ -11,15 +11,8 @@
             "id": "a0c87220d1d0ff27",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sistemi Operativi/Sistemi Operativi Mappa Concettuale.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -40,11 +33,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Sistemi Operativi/Sistemi Operativi Mappa Concettuale.canvas",
+                "file": "IDS/Ingegneria del Software Mappa Concettuale.canvas",
                 "viewState": {
-                  "x": -59,
-                  "y": -139,
-                  "zoom": -1
+                  "x": -1244.5,
+                  "y": -2212.8453846153843,
+                  "zoom": -2.898952470041662
                 }
               }
             }
@@ -116,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/Sistemi Operativi Mappa Concettuale.canvas",
+                "file": "IDS/Ingegneria del Software Mappa Concettuale.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/Sistemi Operativi Mappa Concettuale.canvas",
+                "file": "IDS/Ingegneria del Software Mappa Concettuale.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/Sistemi Operativi Mappa Concettuale.canvas"
+                "file": "IDS/Ingegneria del Software Mappa Concettuale.canvas"
               }
             }
           }
@@ -179,21 +172,21 @@
   },
   "active": "04d59ccba4afba05",
   "lastOpenFiles": [
+    "IDS/Progettazione (Design).md",
+    "IDS/Processo di sviluppo Incrementale.md",
+    "IDS/Processi di Sviluppo.md",
     "IDS/Ingegneria del Software Mappa Concettuale.canvas",
     "Sistemi Operativi/Sistemi Operativi Mappa Concettuale.canvas",
     "Untitled.md",
     "Sistemi Operativi",
     "IDS/Processi Evolutivi.md",
-    "IDS/Processi di Sviluppo.md",
     "IDS/Processo di sviluppo a Spirale.md",
     "IDS/Processo CBSE (Component-Based Software Engineering).md",
-    "IDS/Processo di sviluppo Incrementale.md",
     "IDS/Sviluppo Build and Fix.md",
     "IDS/Sviluppo per Esplorazione.md",
     "IDS/Manutenzione o Evoluzione.md",
     "IDS/Convalida o Testing.md",
     "IDS/Codifica o Implementazione.md",
-    "IDS/Progettazione (Design).md",
     "IDS/Analisi dei Requisiti.md",
     "IDS/Processo di sviluppo a Cascata.md",
     "IDS/Stati composti.md",
