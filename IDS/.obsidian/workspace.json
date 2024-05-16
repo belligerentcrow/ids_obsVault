@@ -15,9 +15,9 @@
               "state": {
                 "file": "Ingegneria del Software Mappa Concettuale.canvas",
                 "viewState": {
-                  "x": -2660.3147258532354,
-                  "y": -2528.738142213176,
-                  "zoom": -0.5
+                  "x": -1563.5204999752332,
+                  "y": -2628.068808934028,
+                  "zoom": -1
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "15210a94c6214ff6",
@@ -151,6 +152,8 @@
   },
   "active": "0ad68170892b4740",
   "lastOpenFiles": [
+    "Refactoring.md",
+    "Scrum.md",
     "Processo XP.md",
     "Sviluppo Agile.md",
     "IDS/State.md",

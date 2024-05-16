@@ -1,4 +1,4 @@
-lez. 17/18? 14-05-24 -- 1999
+*lez. 17/18? 14-05-24 -- 1999*
 vedere slides e libro sulla XP 
 
 Per programmatori piu' esperti.
