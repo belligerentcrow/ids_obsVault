@@ -15,9 +15,9 @@
               "state": {
                 "file": "Ingegneria del Software Mappa Concettuale.canvas",
                 "viewState": {
-                  "x": -1563.5204999752332,
-                  "y": -2628.068808934028,
-                  "zoom": -1
+                  "x": 646.2725153632964,
+                  "y": 557.789717255644,
+                  "zoom": -0.6139415676929221
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingegneria del Software Mappa Concettuale.canvas",
+                "file": "Observer (o Publish-Subscribe).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingegneria del Software Mappa Concettuale.canvas",
+                "file": "Observer (o Publish-Subscribe).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingegneria del Software Mappa Concettuale.canvas"
+                "file": "Observer (o Publish-Subscribe).md"
               }
             }
           }
@@ -152,6 +152,11 @@
   },
   "active": "0ad68170892b4740",
   "lastOpenFiles": [
+    "Observer (o Publish-Subscribe).md",
+    "Refactoring Dividi Variabile Temp (3).md",
+    "Refactoring Sostituisci Temp con Query (2).md",
+    "Refactoring Estrai Metodo (1).md",
+    "Story Card.md",
     "Refactoring.md",
     "Scrum.md",
     "Processo XP.md",
