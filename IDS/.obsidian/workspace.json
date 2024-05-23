@@ -15,9 +15,9 @@
               "state": {
                 "file": "Ingegneria del Software Mappa Concettuale.canvas",
                 "viewState": {
-                  "x": 646.2725153632964,
-                  "y": 557.789717255644,
-                  "zoom": -0.6139415676929221
+                  "x": 699.5633196816652,
+                  "y": 879.6895992688103,
+                  "zoom": -0.5878727560253345
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Observer (o Publish-Subscribe).md",
+                "file": "Model View Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Observer (o Publish-Subscribe).md",
+                "file": "Model View Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Observer (o Publish-Subscribe).md"
+                "file": "Model View Controller.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "0ad68170892b4740",
   "lastOpenFiles": [
+    "Model View Controller.md",
     "Observer (o Publish-Subscribe).md",
     "Refactoring Dividi Variabile Temp (3).md",
     "Refactoring Sostituisci Temp con Query (2).md",
@@ -161,7 +162,7 @@
     "Scrum.md",
     "Processo XP.md",
     "Sviluppo Agile.md",
-    "IDS/State.md",
+    "State 1.md",
     "IDS"
   ]
 }

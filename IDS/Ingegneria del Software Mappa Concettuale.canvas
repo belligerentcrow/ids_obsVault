@@ -97,7 +97,9 @@
 		{"id":"67e2903749f98e71","type":"file","file":"Processo CBSE (Component-Based Software Engineering).md","x":-3500,"y":-2083,"width":496,"height":362},
 		{"id":"7c4b823ebe26ab2f","type":"file","file":"Refactoring Dividi Variabile Temp (3).md","x":-4220,"y":-2240,"width":460,"height":420},
 		{"id":"d5be780edb0eeb34","type":"file","file":"Refactoring Estrai Metodo (1).md","x":-4400,"y":-3190,"width":580,"height":460},
-		{"id":"cfd33d8153ac61d9","type":"file","file":"Observer (o Publish-Subscribe).md","x":380,"y":240,"width":480,"height":400}
+		{"id":"cfd33d8153ac61d9","type":"file","file":"Observer (o Publish-Subscribe).md","x":380,"y":240,"width":480,"height":400},
+		{"id":"dc4cbb17e39109bd","type":"text","text":"Reactive Streams in Java","x":903,"y":249,"width":257,"height":60,"color":"2"},
+		{"id":"845698020e12d054","x":380,"y":722,"width":443,"height":458,"type":"file","file":"Model View Controller.md"}
 	],
 	"edges":[
 		{"id":"1fe50c60f90eda07","fromNode":"b2b6055230cda937","fromSide":"bottom","toNode":"b0cf505b0ebe7b5c","toSide":"top"},
@@ -204,6 +206,8 @@
 		{"id":"2b686824cce9d1db","fromNode":"fd7ea148e3a1c4cd","fromSide":"left","toNode":"d5be780edb0eeb34","toSide":"right"},
 		{"id":"7b4dfb2332a0e989","fromNode":"fd7ea148e3a1c4cd","fromSide":"left","toNode":"2e0d6c0192693af1","toSide":"right"},
 		{"id":"9957c8aadb1be297","fromNode":"fd7ea148e3a1c4cd","fromSide":"left","toNode":"7c4b823ebe26ab2f","toSide":"right"},
-		{"id":"75b87b1cadc851f4","fromNode":"81ed0ca7a1bc3fbb","fromSide":"bottom","toNode":"cfd33d8153ac61d9","toSide":"top"}
+		{"id":"75b87b1cadc851f4","fromNode":"81ed0ca7a1bc3fbb","fromSide":"bottom","toNode":"cfd33d8153ac61d9","toSide":"top"},
+		{"id":"199759c61ee8867a","fromNode":"cfd33d8153ac61d9","fromSide":"right","toNode":"dc4cbb17e39109bd","toSide":"left"},
+		{"id":"de9d56372b7c1564","fromNode":"cfd33d8153ac61d9","fromSide":"bottom","toNode":"845698020e12d054","toSide":"top"}
 	]
 }
